@@ -1,7 +1,12 @@
-body div{
-    font-family: "Lucinda Grande", sans-serif;
+body{
     color: #ffffff;
     background-color: #000000;
+    font-family: 'Lucinda Grande', sans-serif;
+
+}
+
+header{
+    background: #000000;
 }
 
 h1{
@@ -20,6 +25,7 @@ h2{
 }
 
 p{
+    font-family: "Lucinda Grande", sans-serif;
     font-size: 24px;
     color: #ffffff;
     padding-top: 20px;
@@ -30,6 +36,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 525px;
+    background-color: #000000;
 
 }
 
@@ -39,6 +46,7 @@ div {
     padding-right: 25px;
     padding-bottom: 25px;
     padding-left: 25px;
+    background-color: #000000;
 }
 
 #intro{
@@ -81,6 +89,7 @@ div {
 }
 
 footer p{
+    font-family: "Lucinda Grande", sans-serif;
     color: #ffffff;
     background-color: #000000;
     text-align: right;
